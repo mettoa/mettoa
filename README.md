@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mettoa
-- 👀 I’m interested in JavaScript, python and c++
+- 👀 I’m interested in python and c++
 - 🌱 I’m currently learning - python 
 - 📫 How to reach me - artemy_metto@outlook.com
 
