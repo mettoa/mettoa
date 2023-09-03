@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mettoa
-- 👀 I’m interested in python and c++
-- 🌱 I’m currently learning - c++
+- 👀 I’m interested in C++, C#, GO, RUST
+- 🌱 I’m currently learning C++ and C#
 - 📫 How to reach me - artemy_metto@outlook.com
 
 <!---
