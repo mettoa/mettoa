@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mettoa
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me - artemy_metto@outlook.com
 
 <!---
